@@ -1,4 +1,4 @@
-# T5-FineTuned-Model-for-NewsQA
+# FlanT5-SBERT-Model-for-NewsQA
 
 ## Model for Question-Answering with Context and without Context based on Indian News Dataset.
 
