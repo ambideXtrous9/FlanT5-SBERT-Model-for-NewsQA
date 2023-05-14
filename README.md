@@ -1,7 +1,5 @@
 # T5-FineTuned-Model-for-NewsQA
 
-## Model for Question-Answering with Context and without Context based on Dataset.
+## Model for Question-Answering with Context and without Context based on Indian News Dataset.
 
-## Example:
-### Q. 'What percentage of ownership did CLSA say Sony would have after the merger?'
-### A. '51%'
+![QA-Assistant](https://github.com/ambideXtrous9/T5-FineTuned-Model-for-NewsQA/assets/31372586/0ddbfaba-a3cd-4dc0-8c82-45f5d4f0906c)
